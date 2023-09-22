@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/karthikeyan-amk/caseaid/static/css/main.d4859853.css",
+    "main.js": "/karthikeyan-amk/caseaid/static/js/main.2cce119b.js",
+    "static/media/3rdpic.png": "/karthikeyan-amk/caseaid/static/media/3rdpic.6bc45b58df65bfb8f433.png",
+    "static/media/bg.png": "/karthikeyan-amk/caseaid/static/media/bg.81556fcd1ecceb0b29a5.png",
+    "static/media/2ndpic.jpeg": "/karthikeyan-amk/caseaid/static/media/2ndpic.80b975485fd62f1209d8.jpeg",
+    "static/media/4thpic.jpeg": "/karthikeyan-amk/caseaid/static/media/4thpic.d5f1b1f312e2e503ad42.jpeg",
+    "index.html": "/karthikeyan-amk/caseaid/index.html",
+    "main.d4859853.css.map": "/karthikeyan-amk/caseaid/static/css/main.d4859853.css.map",
+    "main.2cce119b.js.map": "/karthikeyan-amk/caseaid/static/js/main.2cce119b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4859853.css",
+    "static/js/main.2cce119b.js"
+  ]
+}
