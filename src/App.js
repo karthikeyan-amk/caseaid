@@ -13,10 +13,10 @@ function App() {
       <div>
         <Header />
         <Routes>
-          <Route path="/" Component={Home} />
-          <Route path="/client" Component={Client} />
-          <Route path="/judge" Component={Judge} />
-          <Route path="/advocate" Component={Advocate} />
+          <Route path="/caseaid" Component={Home} />
+          <Route path="/caseaid/client" Component={Client} />
+          <Route path="/caseaid/judge" Component={Judge} />
+          <Route path="/caseaid/advocate" Component={Advocate} />
 
           </Routes> 
       </div>

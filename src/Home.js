@@ -25,7 +25,7 @@ function Home() {
         <div className='text-[18px]'>
         Legal professionals can use this AI system to efficiently conduct legal research by finding relevant judgments and precedents quickly, saving time and effort.
         </div>
-        <Link to="/advocate" className='bg-[#003C64] rounded-lg w-[150px] h-[40px] text-white text-center p-[5px]'>Advocate</Link>
+        <Link to="/caseaid/advocate" className='bg-[#003C64] rounded-lg w-[150px] h-[40px] text-white text-center p-[5px]'>Advocate</Link>
       </div>
       <div className='w-2/5 justify-center items-center '>
        <img className='w-[380px] rounded-lg' src={secondscreen} alt='Law'/>
@@ -44,7 +44,7 @@ function Home() {
         <div className='text-[18px]'>
         By analyzing patterns in previous judgments and their outcomes, AI can provide insights into the likely outcome of a current case, aiding clients in strategic decision-making.
         </div>
-        <Link to="/client" className='bg-[#003C64] rounded-lg w-[150px] h-[40px] text-white text-center p-[5px]'>Client</Link>
+        <Link to="/caseaid/client" className='bg-[#003C64] rounded-lg w-[150px] h-[40px] text-white text-center p-[5px]'>Client</Link>
       </div>
     </div>
     
@@ -56,7 +56,7 @@ function Home() {
         <div className='text-[18px]'>
         Courts can prioritize cases based on their similarity to previous cases, expediting the judicial process.
         </div>
-        <Link to="/judge" className='bg-[#003C64] rounded-lg w-[150px] h-[40px] text-white text-center p-[5px]'>Judge</Link>
+        <Link to="/caseaid/judge" className='bg-[#003C64] rounded-lg w-[150px] h-[40px] text-white text-center p-[5px]'>Judge</Link>
       </div>
       <div className='w-2/5 justify-center items-center '>
        <img className='w-[380px] rounded-lg' src={fourthscreen} alt='Law'/>
